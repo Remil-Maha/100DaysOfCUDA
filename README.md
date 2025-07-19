@@ -33,10 +33,7 @@ Each day, you will find code examples, explanations  aimed at mastering GPU para
 
 ## How to Follow Along
 
-You can clone this repository to explore the daily lessons:
-
-```bash
-git clone https://github.com/Remil-Maha/100DaysOfCUDA.git
+You can clone this repository to explore the daily lessons:   git clone https://github.com/Remil-Maha/100DaysOfCUDA.git
 
 ---
 
