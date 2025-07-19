@@ -37,3 +37,28 @@ You can clone this repository to explore the daily lessons:
 
 ```bash
 git clone https://github.com/Remil-Maha/100DaysOfCUDA.git
+
+---
+
+📅 Day 01 – Getting Started with CUDA
+On Day 01, I wrote my first CUDA program: a simple vector addition example.
+I used:
+
+%writefile in a Jupyter notebook to generate the .cu source code.
+
+The nvcc compiler to build the executable.
+
+GPU execution and output verification in the notebook.
+
+
+📝 I also published my first Medium article titled:
+"What is CUDA (and Why CPUs Aren’t Enough Anymore)"
+In this article, I explain:
+
+The difference between CPUs and GPUs,
+
+Why parallelism matters,
+
+And what is CUDA.
+
+
