@@ -28,6 +28,8 @@ Each day, you will find code examples, explanations  aimed at mastering GPU para
 - [NVIDIA CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/)
 - *CUDA by Example* by Jason Sanders & Edward Kandrot
 - Google Colab with GPU acceleration
+- https://modal.com/gpu-glossary/device-hardware/cuda-device-architecture
+- https://www.youtube.com/watch?v=86FAWCzIe_4&t=2263s
 
 ---
 
